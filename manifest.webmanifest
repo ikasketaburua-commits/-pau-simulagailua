@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Zabalgana BHI - PAU / USE Simulagailua",
+  "short_name": "PAU · USE",
+  "description": "Guía y simulador bilingüe de acceso a la EHU / EHUra sartzeko gida eta simulagailua",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#12372d",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
