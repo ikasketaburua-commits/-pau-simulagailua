@@ -1,6 +1,6 @@
 {
-  "name": "Zabalgana BHI · PAU / USE Simulagailua",
-  "short_name": "PAU / USE",
+  "name": "Zabalgana BHI · PAU/USE Simulagailua",
+  "short_name": "PAU/USE",
   "description": "Simulador orientativo de la PAU en castellano y euskera",
   "start_url": "./",
   "scope": "./",
@@ -20,5 +20,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "version": "6.0"
 }
